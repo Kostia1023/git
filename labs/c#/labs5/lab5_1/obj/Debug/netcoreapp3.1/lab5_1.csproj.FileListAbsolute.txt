@@ -1,0 +1,13 @@
+C:\constanta 2\C#\labs\labs5\lab5_1\bin\Debug\netcoreapp3.1\lab5_1.exe
+C:\constanta 2\C#\labs\labs5\lab5_1\bin\Debug\netcoreapp3.1\lab5_1.deps.json
+C:\constanta 2\C#\labs\labs5\lab5_1\bin\Debug\netcoreapp3.1\lab5_1.runtimeconfig.json
+C:\constanta 2\C#\labs\labs5\lab5_1\bin\Debug\netcoreapp3.1\lab5_1.runtimeconfig.dev.json
+C:\constanta 2\C#\labs\labs5\lab5_1\bin\Debug\netcoreapp3.1\lab5_1.dll
+C:\constanta 2\C#\labs\labs5\lab5_1\bin\Debug\netcoreapp3.1\lab5_1.pdb
+C:\constanta 2\C#\labs\labs5\lab5_1\obj\Debug\netcoreapp3.1\lab5_1.csprojAssemblyReference.cache
+C:\constanta 2\C#\labs\labs5\lab5_1\obj\Debug\netcoreapp3.1\lab5_1.AssemblyInfoInputs.cache
+C:\constanta 2\C#\labs\labs5\lab5_1\obj\Debug\netcoreapp3.1\lab5_1.AssemblyInfo.cs
+C:\constanta 2\C#\labs\labs5\lab5_1\obj\Debug\netcoreapp3.1\lab5_1.csproj.CoreCompileInputs.cache
+C:\constanta 2\C#\labs\labs5\lab5_1\obj\Debug\netcoreapp3.1\lab5_1.dll
+C:\constanta 2\C#\labs\labs5\lab5_1\obj\Debug\netcoreapp3.1\lab5_1.pdb
+C:\constanta 2\C#\labs\labs5\lab5_1\obj\Debug\netcoreapp3.1\lab5_1.genruntimeconfig.cache
