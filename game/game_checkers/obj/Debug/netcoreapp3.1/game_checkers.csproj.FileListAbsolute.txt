@@ -1,0 +1,26 @@
+C:\constanta 2\C#\game\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.exe
+C:\constanta 2\C#\game\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.deps.json
+C:\constanta 2\C#\game\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.runtimeconfig.json
+C:\constanta 2\C#\game\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.runtimeconfig.dev.json
+C:\constanta 2\C#\game\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.dll
+C:\constanta 2\C#\game\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.pdb
+C:\constanta 2\C#\game\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.csprojAssemblyReference.cache
+C:\constanta 2\C#\game\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.AssemblyInfoInputs.cache
+C:\constanta 2\C#\game\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.AssemblyInfo.cs
+C:\constanta 2\C#\game\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.csproj.CoreCompileInputs.cache
+C:\constanta 2\C#\game\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.dll
+C:\constanta 2\C#\game\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.pdb
+C:\constanta 2\C#\game\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.genruntimeconfig.cache
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.exe
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.deps.json
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.runtimeconfig.json
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.runtimeconfig.dev.json
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.dll
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\bin\Debug\netcoreapp3.1\game_checkers.pdb
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.csprojAssemblyReference.cache
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.AssemblyInfoInputs.cache
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.AssemblyInfo.cs
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.csproj.CoreCompileInputs.cache
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.dll
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.pdb
+D:\constanta\універ\c#\game\game_checkers-20210220T190324Z-001\game_checkers\obj\Debug\netcoreapp3.1\game_checkers.genruntimeconfig.cache
