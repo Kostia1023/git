@@ -56,6 +56,7 @@ namespace game_checkers
             }
             Console.ReadKey();
 
+
             /*
             Console.BackgroundColor = ConsoleColor.Blue;
             Console.WriteLine("Blue") ;
