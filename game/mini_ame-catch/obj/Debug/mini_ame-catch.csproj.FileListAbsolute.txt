@@ -1,0 +1,10 @@
+D:\constanta\універ\c#\game\mini_ame-catch\bin\Debug\mini_ame-catch.exe.config
+D:\constanta\універ\c#\game\mini_ame-catch\bin\Debug\mini_ame-catch.exe
+D:\constanta\універ\c#\game\mini_ame-catch\bin\Debug\mini_ame-catch.pdb
+D:\constanta\універ\c#\game\mini_ame-catch\obj\Debug\mini_ame_catch.Form1.resources
+D:\constanta\універ\c#\game\mini_ame-catch\obj\Debug\mini_ame_catch.Properties.Resources.resources
+D:\constanta\універ\c#\game\mini_ame-catch\obj\Debug\mini_ame-catch.csproj.GenerateResource.cache
+D:\constanta\універ\c#\game\mini_ame-catch\obj\Debug\mini_ame-catch.csproj.CoreCompileInputs.cache
+D:\constanta\універ\c#\game\mini_ame-catch\obj\Debug\mini_ame-catch.exe
+D:\constanta\універ\c#\game\mini_ame-catch\obj\Debug\mini_ame-catch.pdb
+D:\constanta\універ\c#\game\mini_ame-catch\obj\Debug\mini_ame-catch.csprojAssemblyReference.cache
