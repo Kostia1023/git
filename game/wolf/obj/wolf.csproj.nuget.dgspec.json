@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\constanta\\універ\\c#\\game\\wolf\\wolf.csproj": {}
+    "F:\\c#\\game\\wolf\\wolf.csproj": {}
   },
   "projects": {
-    "D:\\constanta\\універ\\c#\\game\\wolf\\wolf.csproj": {
+    "F:\\c#\\game\\wolf\\wolf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\constanta\\універ\\c#\\game\\wolf\\wolf.csproj",
+        "projectUniqueName": "F:\\c#\\game\\wolf\\wolf.csproj",
         "projectName": "wolf",
-        "projectPath": "D:\\constanta\\універ\\c#\\game\\wolf\\wolf.csproj",
+        "projectPath": "F:\\c#\\game\\wolf\\wolf.csproj",
         "packagesPath": "C:\\Users\\Костя\\.nuget\\packages\\",
-        "outputPath": "D:\\constanta\\універ\\c#\\game\\wolf\\obj\\",
+        "outputPath": "F:\\c#\\game\\wolf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

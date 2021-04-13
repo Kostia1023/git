@@ -9,7 +9,7 @@ namespace wolf
     {
         static int score = 0;
         static int looses = 0;
-        static Egg egg = new Egg();
+        
         static Random rand = new Random();
         static GameFuncion funcion = new GameFuncion();
         static Egg[] listEgg = new Egg[4];

@@ -11,3 +11,16 @@ D:\constanta\універ\c#\wolf\obj\Debug\netcoreapp3.1\wolf.csproj.CoreCompil
 D:\constanta\універ\c#\wolf\obj\Debug\netcoreapp3.1\wolf.dll
 D:\constanta\універ\c#\wolf\obj\Debug\netcoreapp3.1\wolf.pdb
 D:\constanta\універ\c#\wolf\obj\Debug\netcoreapp3.1\wolf.genruntimeconfig.cache
+D:\constanta\універ\c#\game\wolf\bin\Debug\netcoreapp3.1\wolf.exe
+D:\constanta\універ\c#\game\wolf\bin\Debug\netcoreapp3.1\wolf.deps.json
+D:\constanta\універ\c#\game\wolf\bin\Debug\netcoreapp3.1\wolf.runtimeconfig.json
+D:\constanta\універ\c#\game\wolf\bin\Debug\netcoreapp3.1\wolf.runtimeconfig.dev.json
+D:\constanta\універ\c#\game\wolf\bin\Debug\netcoreapp3.1\wolf.dll
+D:\constanta\універ\c#\game\wolf\bin\Debug\netcoreapp3.1\wolf.pdb
+D:\constanta\універ\c#\game\wolf\obj\Debug\netcoreapp3.1\wolf.csprojAssemblyReference.cache
+D:\constanta\універ\c#\game\wolf\obj\Debug\netcoreapp3.1\wolf.AssemblyInfoInputs.cache
+D:\constanta\універ\c#\game\wolf\obj\Debug\netcoreapp3.1\wolf.AssemblyInfo.cs
+D:\constanta\універ\c#\game\wolf\obj\Debug\netcoreapp3.1\wolf.csproj.CoreCompileInputs.cache
+D:\constanta\універ\c#\game\wolf\obj\Debug\netcoreapp3.1\wolf.dll
+D:\constanta\універ\c#\game\wolf\obj\Debug\netcoreapp3.1\wolf.pdb
+D:\constanta\універ\c#\game\wolf\obj\Debug\netcoreapp3.1\wolf.genruntimeconfig.cache

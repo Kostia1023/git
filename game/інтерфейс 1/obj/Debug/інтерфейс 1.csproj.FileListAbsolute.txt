@@ -1,0 +1,30 @@
+C:\Users\Костя\source\repos\інтерфейс 1\bin\Debug\інтерфейс 1.exe.config
+C:\Users\Костя\source\repos\інтерфейс 1\bin\Debug\інтерфейс 1.exe
+C:\Users\Костя\source\repos\інтерфейс 1\bin\Debug\інтерфейс 1.pdb
+C:\Users\Костя\source\repos\інтерфейс 1\obj\Debug\інтерфейс 1.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\інтерфейс 1\obj\Debug\інтерфейс_1.Form1.resources
+C:\Users\Костя\source\repos\інтерфейс 1\obj\Debug\інтерфейс_1.Properties.Resources.resources
+C:\Users\Костя\source\repos\інтерфейс 1\obj\Debug\інтерфейс 1.csproj.GenerateResource.cache
+C:\Users\Костя\source\repos\інтерфейс 1\obj\Debug\інтерфейс 1.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\інтерфейс 1\obj\Debug\інтерфейс 1.exe
+C:\Users\Костя\source\repos\інтерфейс 1\obj\Debug\інтерфейс 1.pdb
+C:\constanta 2\інтерфейс\інтерфейс 1\bin\Debug\інтерфейс 1.exe.config
+C:\constanta 2\інтерфейс\інтерфейс 1\bin\Debug\інтерфейс 1.exe
+C:\constanta 2\інтерфейс\інтерфейс 1\bin\Debug\інтерфейс 1.pdb
+C:\constanta 2\інтерфейс\інтерфейс 1\obj\Debug\інтерфейс 1.csprojAssemblyReference.cache
+C:\constanta 2\інтерфейс\інтерфейс 1\obj\Debug\інтерфейс_1.Form1.resources
+C:\constanta 2\інтерфейс\інтерфейс 1\obj\Debug\інтерфейс_1.Properties.Resources.resources
+C:\constanta 2\інтерфейс\інтерфейс 1\obj\Debug\інтерфейс 1.csproj.GenerateResource.cache
+C:\constanta 2\інтерфейс\інтерфейс 1\obj\Debug\інтерфейс 1.csproj.CoreCompileInputs.cache
+C:\constanta 2\інтерфейс\інтерфейс 1\obj\Debug\інтерфейс 1.exe
+C:\constanta 2\інтерфейс\інтерфейс 1\obj\Debug\інтерфейс 1.pdb
+F:\c#\інтерфейс 1\bin\Debug\інтерфейс 1.exe.config
+F:\c#\інтерфейс 1\bin\Debug\інтерфейс 1.exe
+F:\c#\інтерфейс 1\bin\Debug\інтерфейс 1.pdb
+F:\c#\інтерфейс 1\obj\Debug\інтерфейс 1.csprojAssemblyReference.cache
+F:\c#\інтерфейс 1\obj\Debug\інтерфейс_1.Form1.resources
+F:\c#\інтерфейс 1\obj\Debug\інтерфейс_1.Properties.Resources.resources
+F:\c#\інтерфейс 1\obj\Debug\інтерфейс 1.csproj.GenerateResource.cache
+F:\c#\інтерфейс 1\obj\Debug\інтерфейс 1.csproj.CoreCompileInputs.cache
+F:\c#\інтерфейс 1\obj\Debug\інтерфейс 1.exe
+F:\c#\інтерфейс 1\obj\Debug\інтерфейс 1.pdb
