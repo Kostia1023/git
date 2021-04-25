@@ -1,0 +1,20 @@
+C:\constanta 2\C#\движок\Version 3\obj\Debug\Version 3.csprojAssemblyReference.cache
+C:\constanta 2\C#\движок\Version 3\obj\Debug\Version_3.Form1.resources
+C:\constanta 2\C#\движок\Version 3\obj\Debug\Version_3.Properties.Resources.resources
+C:\constanta 2\C#\движок\Version 3\obj\Debug\Version 3.csproj.GenerateResource.cache
+C:\constanta 2\C#\движок\Version 3\obj\Debug\Version 3.csproj.CoreCompileInputs.cache
+C:\constanta 2\C#\движок\Version 3\bin\Debug\Version 3.exe.config
+C:\constanta 2\C#\движок\Version 3\bin\Debug\Version 3.exe
+C:\constanta 2\C#\движок\Version 3\bin\Debug\Version 3.pdb
+C:\constanta 2\C#\движок\Version 3\obj\Debug\Version 3.exe
+C:\constanta 2\C#\движок\Version 3\obj\Debug\Version 3.pdb
+F:\c#\движок\Version 3\bin\Debug\Version 3.exe.config
+F:\c#\движок\Version 3\bin\Debug\Version 3.exe
+F:\c#\движок\Version 3\bin\Debug\Version 3.pdb
+F:\c#\движок\Version 3\obj\Debug\Version 3.csprojAssemblyReference.cache
+F:\c#\движок\Version 3\obj\Debug\Version_3.Form1.resources
+F:\c#\движок\Version 3\obj\Debug\Version_3.Properties.Resources.resources
+F:\c#\движок\Version 3\obj\Debug\Version 3.csproj.GenerateResource.cache
+F:\c#\движок\Version 3\obj\Debug\Version 3.csproj.CoreCompileInputs.cache
+F:\c#\движок\Version 3\obj\Debug\Version 3.exe
+F:\c#\движок\Version 3\obj\Debug\Version 3.pdb
