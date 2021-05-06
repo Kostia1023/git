@@ -23,10 +23,7 @@ namespace Version_3
         /// <param name="width">The width of the figure (Ширина фігури )</param>
         public PhysicalBody(int PosX, int PosY, int height, int width, Panel panel)
             : base(PosX, PosY, height, width, panel)
-        {
-        }
-
-
+        { }
 
 
         public void falling(FiguresPoints[] figuresPoints)
@@ -56,9 +53,6 @@ namespace Version_3
             this.EndPosY += changes;
             this.picture.Top += changes;
         }
-
-
-
 
     }
 }

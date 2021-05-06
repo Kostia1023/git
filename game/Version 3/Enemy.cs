@@ -10,6 +10,7 @@ namespace Version_3
 {
     class Enemy : PhysicalBody
     {
+        public event Move MoveXAndY;
         public bool MoveToTheRight = true;
         public bool RightNow = true;
         private int rightBorder;
@@ -41,59 +42,54 @@ namespace Version_3
         }
         public int SpeedX = 0;
 
-        public Enemy(int PosX, int PosY, int height, int width, Panel panel, int RBorder, int LBotder)
+        public Enemy(int PosX, int PosY, int height, int width, Panel panel, int LBotder, int RBorder)
            : base(PosX, PosY, height, width, panel)
         {
             RightBorder = RBorder;
-            leftBorder = LBotder;
+            LeftBorder = LBotder;
             picture.Image = Image.FromFile("../../img/batLeft.gif");
+            MoveXAndY += MoveRight;
+            
         }
 
         public Enemy(int PosX, int PosY, int height, int width, Panel panel) : this(PosX, PosY, height, width, panel, 0, 0)
         { }
 
-        public void MoveX(FiguresPoints[] figuresPoints)
-        {
-            if (MoveToTheRight)
-            {
-                if (!RightNow)
-                {
-                    RightNow = !RightNow;
-                    picture.Image = Image.FromFile("../../img/batLeft.gif");
-                }
-                MoveRight(figuresPoints);
-            }
-            else
-            {
-                if (RightNow)
-                {
-                    RightNow = !RightNow;
-                    picture.Image = Image.FromFile("../../img/batRight.gif");
-                }
-                MoveLeft(figuresPoints);
-            }
 
-        }
         public void MoveRight(FiguresPoints[] figuresPoints)
         {
-
+            if (RightNow)
+            {
+                RightNow = !RightNow;
+                picture.Image = Image.FromFile("../../img/batRight.gif");
+            }
             if (CrossingsCheck(figuresPoints, RightCrossing) || RightBorder == this.EndPosX)
             {
-                MoveToTheRight = false;
+                MoveXAndY -= MoveRight;
+                MoveXAndY += MoveLeft;
             }
-            else ChangePositionX(-SpeedX);
+            else ChangePositionX(SpeedX);
 
         }
 
         public void MoveLeft(FiguresPoints[] figuresPoints)
         {
-
-            if (CrossingsCheck(figuresPoints, LeftCrossing) || leftBorder == this.ZeroPosX)
+            if (!RightNow)
             {
-                MoveToTheRight = true;
+                RightNow = !RightNow;
+                picture.Image = Image.FromFile("../../img/batLeft.gif");
             }
-            else ChangePositionX(+SpeedX);
+            if (CrossingsCheck(figuresPoints, LeftCrossing) || LeftBorder == this.ZeroPosX)
+            {
+                MoveXAndY -= MoveLeft;
+                MoveXAndY += MoveRight;
+            }
+            else ChangePositionX(-SpeedX);
+        }
 
+        public void MoveNow(FiguresPoints[] figuresPoints)
+        {
+            MoveXAndY?.Invoke(figuresPoints);
         }
 
     }

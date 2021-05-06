@@ -45,17 +45,17 @@ namespace Version_3
             Shown = true;
         }
 
-        private Bitmap CreateImage(int width, int height)
-        {
+        //private Bitmap CreateImage(int width, int height)
+        //{
 
-            Bitmap bmp = new Bitmap(width, height);
-            using (Graphics g = Graphics.FromImage(bmp))
-            {
-                Pen myPen = new Pen(Color.Black);
-                g.DrawRectangle(myPen, new Rectangle(0, 0, width - 1, height - 1));
-            }
-            return bmp;
-        }
+        //    Bitmap bmp = new Bitmap(width, height);
+        //    using (Graphics g = Graphics.FromImage(bmp))
+        //    {
+        //        Pen myPen = new Pen(Color.Black);
+        //        g.DrawRectangle(myPen, new Rectangle(0, 0, width - 1, height - 1));
+        //    }
+        //    return bmp;
+        //}
 
         public void Hide()
         {

@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Version_3
 {
+    delegate void Move(FiguresPoints[] figuresPoints);
     public partial class Form1 : Form
     {
         private Hero hero;
@@ -70,7 +71,7 @@ namespace Version_3
             }
 
             //----------------------Create-Lvl------------------------------
-            lvl1 = new LevelObjects(4, 13, 1, 2, 6, 1, 2, 1, new FigureWithoutPhysics(8600, 720, 180, 180, panel1));
+            lvl1 = new LevelObjects(6, 13, 1, 2, 6, 1, 2, 1, new FigureWithoutPhysics(8600, 720, 180, 180, panel1));
             (lvl1.WinObj as FigureWithoutPhysics).picture.Image = Image.FromFile("../../img/castle.png");
 
             //---------------------Add-platforms----------------------------
@@ -86,10 +87,7 @@ namespace Version_3
             lvl1.AddPlatforms(new FigureWithoutPhysics(7600, 900, 120, 2400, panel1));
             lvl1.AddPlatforms(new FigureWithoutPhysics(2300, 750, 60, 200, panel1));
 
-            //for (int i = 0; i < lvl1.NumberPlatforms; i++)
-            //{
-            //    (lvl1.PlatformsList[i] as FigureWithoutPhysics).picture.BackColor = Color.Green;
-            //}
+  
             //---------------------------Trumpet------------------------------
             lvl1.AddPlatforms(new FigureWithoutPhysics(280, 780, 40, 100, panel1));
             (lvl1.PlatformsList[lvl1.NumberPlatforms-1] as FigureWithoutPhysics).picture.Image = DrawPicture.DrawTrumpetTop(lvl1.PlatformsList[lvl1.NumberPlatforms-1].WidthObj, lvl1.PlatformsList[lvl1.NumberPlatforms-1].HeightObj);
@@ -144,12 +142,13 @@ namespace Version_3
             lvl1.AddEnemy(new Enemy(7200, 820, 50, 90, panel1, 6900, 8000));
             lvl1.AddEnemy(new Enemy(3000, 820, 50, 90, panel1, 2100, 3300));
             lvl1.AddEnemy(new Enemy(5000, 820, 50, 90, panel1, 4300, 6500));
-            for (int i = 0; i < lvl1.MaxNumberEnemies; i++)
+            lvl1.AddEnemy(new PhysicalEnemy(650, 820, 60, 60, panel1));
+            lvl1.AddEnemy(new PhysicalEnemy(2700, 690, 60, 60, panel1));
+            for (int i = 0; i < lvl1.NumberEnemies; i++)
             {
                 lvl1.EnemiesList[i].SpeedX = 2;
-
             }
-
+            lvl1.EnemiesList[lvl1.NumberEnemies-1].SpeedX = 1;
             //----------------------Add-static-enemies--------------------
             lvl1.AddStaticEnemy(new FigureWithoutPhysics(0, 1100, 120, 9000, panel1));
 
@@ -217,7 +216,6 @@ namespace Version_3
 
             if (hero.destroy(lvl1.SpecialUnbreakableCubeList, out a))
             {
-                //(lvl1.SpecialCubeList[a] as SpecialBlock).Destroy = true;
                 (lvl1.SpecialUnbreakableCubeList[a] as SpecialBlock).Break(lvl1.AddStar);
             }
 
@@ -302,8 +300,7 @@ namespace Version_3
         {
             for (int i = 0; i < lvl1.NumberEnemies; i++)
             {
-
-                lvl1.EnemiesList[i]?.MoveX(lvl1.AllPlatforms());
+                lvl1.EnemiesList[i]?.MoveNow(lvl1.AllPlatforms());
             }
         }
     }
