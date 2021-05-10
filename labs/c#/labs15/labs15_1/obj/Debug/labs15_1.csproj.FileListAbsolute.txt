@@ -1,0 +1,10 @@
+C:\constanta 2\C#\labs\labs15\labs15_1\bin\Debug\labs15_1.exe.config
+C:\constanta 2\C#\labs\labs15\labs15_1\bin\Debug\labs15_1.exe
+C:\constanta 2\C#\labs\labs15\labs15_1\bin\Debug\labs15_1.pdb
+C:\constanta 2\C#\labs\labs15\labs15_1\obj\Debug\labs15_1.csprojAssemblyReference.cache
+C:\constanta 2\C#\labs\labs15\labs15_1\obj\Debug\labs15_1.Form1.resources
+C:\constanta 2\C#\labs\labs15\labs15_1\obj\Debug\labs15_1.Properties.Resources.resources
+C:\constanta 2\C#\labs\labs15\labs15_1\obj\Debug\labs15_1.csproj.GenerateResource.cache
+C:\constanta 2\C#\labs\labs15\labs15_1\obj\Debug\labs15_1.csproj.CoreCompileInputs.cache
+C:\constanta 2\C#\labs\labs15\labs15_1\obj\Debug\labs15_1.exe
+C:\constanta 2\C#\labs\labs15\labs15_1\obj\Debug\labs15_1.pdb
