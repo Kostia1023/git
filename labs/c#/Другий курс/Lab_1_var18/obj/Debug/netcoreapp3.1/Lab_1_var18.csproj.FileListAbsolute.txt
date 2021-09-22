@@ -1,0 +1,15 @@
+C:\Users\Kostya\source\repos\Lab_1_var18\bin\Debug\netcoreapp3.1\Lab_1_var18.exe
+C:\Users\Kostya\source\repos\Lab_1_var18\bin\Debug\netcoreapp3.1\Lab_1_var18.deps.json
+C:\Users\Kostya\source\repos\Lab_1_var18\bin\Debug\netcoreapp3.1\Lab_1_var18.runtimeconfig.json
+C:\Users\Kostya\source\repos\Lab_1_var18\bin\Debug\netcoreapp3.1\Lab_1_var18.runtimeconfig.dev.json
+C:\Users\Kostya\source\repos\Lab_1_var18\bin\Debug\netcoreapp3.1\Lab_1_var18.dll
+C:\Users\Kostya\source\repos\Lab_1_var18\bin\Debug\netcoreapp3.1\Lab_1_var18.pdb
+C:\Users\Kostya\source\repos\Lab_1_var18\obj\Debug\netcoreapp3.1\Lab_1_var18.csprojAssemblyReference.cache
+C:\Users\Kostya\source\repos\Lab_1_var18\obj\Debug\netcoreapp3.1\Lab_1_var18.AssemblyInfoInputs.cache
+C:\Users\Kostya\source\repos\Lab_1_var18\obj\Debug\netcoreapp3.1\Lab_1_var18.AssemblyInfo.cs
+C:\Users\Kostya\source\repos\Lab_1_var18\obj\Debug\netcoreapp3.1\Lab_1_var18.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\source\repos\Lab_1_var18\obj\Debug\netcoreapp3.1\Lab_1_var18.dll
+C:\Users\Kostya\source\repos\Lab_1_var18\obj\Debug\netcoreapp3.1\Lab_1_var18.pdb
+C:\Users\Kostya\source\repos\Lab_1_var18\obj\Debug\netcoreapp3.1\Lab_1_var18.genruntimeconfig.cache
+C:\Users\Kostya\source\repos\Lab_1_var18\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kostya\source\repos\Lab_1_var18\obj\Debug\netcoreapp3.1\Lab_1_var18.csproj.CopyComplete
