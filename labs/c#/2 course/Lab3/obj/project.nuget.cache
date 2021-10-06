@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZlrG5BND4mZrQar1BTmlYxSZ+xqDSxnOXtaMtE9kyJk1/1h8UyPHj65pDD6Izl69KaYFO9RlgSU5tM1W2URlQ==",
+  "success": true,
+  "projectFilePath": "C:\\constanta 2\\DB\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kostya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
