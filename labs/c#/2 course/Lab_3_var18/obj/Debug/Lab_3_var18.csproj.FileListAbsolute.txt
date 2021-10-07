@@ -1,0 +1,17 @@
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\MyDB.mdf
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\MyDB_log.ldf
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\Lab_3_var18.exe.config
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\Lab_3_var18.exe
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\Lab_3_var18.pdb
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\EntityFramework.dll
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\EntityFramework.SqlServer.dll
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\EntityFramework.xml
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\EntityFramework.SqlServer.xml
+F:\c#\git\labs\c#\2 course\Lab_3_var18\bin\Debug\ru\EntityFramework.resources.dll
+F:\c#\git\labs\c#\2 course\Lab_3_var18\obj\Debug\Lab_3_var18.csproj.AssemblyReference.cache
+F:\c#\git\labs\c#\2 course\Lab_3_var18\obj\Debug\Lab_3_var18.Form1.resources
+F:\c#\git\labs\c#\2 course\Lab_3_var18\obj\Debug\Lab_3_var18.Properties.Resources.resources
+F:\c#\git\labs\c#\2 course\Lab_3_var18\obj\Debug\Lab_3_var18.csproj.GenerateResource.cache
+F:\c#\git\labs\c#\2 course\Lab_3_var18\obj\Debug\Lab_3_var18.csproj.CoreCompileInputs.cache
+F:\c#\git\labs\c#\2 course\Lab_3_var18\obj\Debug\Lab_3_var18.exe
+F:\c#\git\labs\c#\2 course\Lab_3_var18\obj\Debug\Lab_3_var18.pdb
