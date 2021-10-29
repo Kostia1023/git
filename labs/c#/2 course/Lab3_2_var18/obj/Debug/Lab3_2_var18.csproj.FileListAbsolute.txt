@@ -1,0 +1,12 @@
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\bin\Debug\MyBD.mdf
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\bin\Debug\MyBD_log.ldf
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\bin\Debug\Lab3_2_var18.exe.config
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\bin\Debug\Lab3_2_var18.exe
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\bin\Debug\Lab3_2_var18.pdb
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\obj\Debug\Lab3_2_var18.csproj.AssemblyReference.cache
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\obj\Debug\Lab3_2_var18.Form1.resources
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\obj\Debug\Lab3_2_var18.Properties.Resources.resources
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\obj\Debug\Lab3_2_var18.csproj.GenerateResource.cache
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\obj\Debug\Lab3_2_var18.csproj.CoreCompileInputs.cache
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\obj\Debug\Lab3_2_var18.exe
+F:\c#\git\labs\c#\2 course\Lab3_2_var18\obj\Debug\Lab3_2_var18.pdb
