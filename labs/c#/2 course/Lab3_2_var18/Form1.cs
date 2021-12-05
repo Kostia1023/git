@@ -36,7 +36,7 @@ namespace Lab3_2_var18
             dataGridView1.DataSource = dt;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
             dataGridView1.Columns.Clear();
 
@@ -54,7 +54,7 @@ namespace Lab3_2_var18
             dataGridView1.DataSource = dt;
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Button2_Click(object sender, EventArgs e)
         {
 
             dataGridView1.Columns.Clear();
@@ -75,7 +75,7 @@ namespace Lab3_2_var18
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void Button3_Click(object sender, EventArgs e)
         {
             dataGridView1.Columns.Clear();
 

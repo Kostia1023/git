@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kostya\\source\\repos\\Lab_1_var18\\Lab_1_var18.csproj": {}
+    "F:\\c#\\git\\labs\\c#\\2 course\\Lab_1_var18\\Lab_1_var18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kostya\\source\\repos\\Lab_1_var18\\Lab_1_var18.csproj": {
+    "F:\\c#\\git\\labs\\c#\\2 course\\Lab_1_var18\\Lab_1_var18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kostya\\source\\repos\\Lab_1_var18\\Lab_1_var18.csproj",
+        "projectUniqueName": "F:\\c#\\git\\labs\\c#\\2 course\\Lab_1_var18\\Lab_1_var18.csproj",
         "projectName": "Lab_1_var18",
-        "projectPath": "C:\\Users\\Kostya\\source\\repos\\Lab_1_var18\\Lab_1_var18.csproj",
-        "packagesPath": "C:\\Users\\Kostya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kostya\\source\\repos\\Lab_1_var18\\obj\\",
+        "projectPath": "F:\\c#\\git\\labs\\c#\\2 course\\Lab_1_var18\\Lab_1_var18.csproj",
+        "packagesPath": "C:\\Users\\Костя\\.nuget\\packages\\",
+        "outputPath": "F:\\c#\\git\\labs\\c#\\2 course\\Lab_1_var18\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kostya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Костя\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,18 +58,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
