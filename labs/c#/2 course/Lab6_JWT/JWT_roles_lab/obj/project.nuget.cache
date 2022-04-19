@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EspNV2JayUtVsyHmwKdnQkZVJjmoSG5U2rVlTK4RYLozGLre/F9CSncsPV+iJhSyN8UthpbLmlte7v8cvi6qBw==",
+  "dgSpecHash": "4NHGJkTqQPHa+bRfQMIaDLw6VIachR+V2zOkzsWy+2t7cDv7aRuwTlIYsn0MP1j5VgVSTYFWSvyDPcrSK+spiA==",
   "success": true,
-  "projectFilePath": "F:\\c#\\web\\JWT_roles_lab\\JWT_roles_lab.csproj",
+  "projectFilePath": "F:\\c#\\git\\labs\\c#\\2 course\\Lab6_JWT\\JWT_roles_lab\\JWT_roles_lab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kostya\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.22\\microsoft.aspnetcore.authentication.jwtbearer.3.1.22.nupkg.sha512",
     "C:\\Users\\kostya\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

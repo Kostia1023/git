@@ -8517,11 +8517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\c#\\web\\JWT_roles_lab\\JWT_roles_lab.csproj",
+      "projectUniqueName": "F:\\c#\\git\\labs\\c#\\2 course\\Lab6_JWT\\JWT_roles_lab\\JWT_roles_lab.csproj",
       "projectName": "JWT_roles_lab",
-      "projectPath": "F:\\c#\\web\\JWT_roles_lab\\JWT_roles_lab.csproj",
+      "projectPath": "F:\\c#\\git\\labs\\c#\\2 course\\Lab6_JWT\\JWT_roles_lab\\JWT_roles_lab.csproj",
       "packagesPath": "C:\\Users\\kostya\\.nuget\\packages\\",
-      "outputPath": "F:\\c#\\web\\JWT_roles_lab\\obj\\",
+      "outputPath": "F:\\c#\\git\\labs\\c#\\2 course\\Lab6_JWT\\JWT_roles_lab\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
