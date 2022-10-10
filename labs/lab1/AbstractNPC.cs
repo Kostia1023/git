@@ -1,8 +1,7 @@
 namespace lab1
 {
-    public abstract class AbstractNPC
+    public abstract class AbstractNPC : NPC_ITEM
     {
-        public string name;
         public int x;
         public int y;
         public int hp;

@@ -2,6 +2,6 @@ namespace lab1
 {
     public class World
     {
-        public object[,] map;
+        public NPC_ITEM[,] map;
     }
 }

@@ -1,0 +1,6 @@
+/home/kostia/RiderProjects/lab1/lab1/bin/Debug/lab1.exe
+/home/kostia/RiderProjects/lab1/lab1/bin/Debug/lab1.pdb
+/home/kostia/RiderProjects/lab1/lab1/obj/Debug/lab1.csproj.AssemblyReference.cache
+/home/kostia/RiderProjects/lab1/lab1/obj/Debug/lab1.csproj.CoreCompileInputs.cache
+/home/kostia/RiderProjects/lab1/lab1/obj/Debug/lab1.exe
+/home/kostia/RiderProjects/lab1/lab1/obj/Debug/lab1.pdb

@@ -1,6 +1,6 @@
 namespace lab1
 {
-    public abstract class AbstractItem
+    public abstract class AbstractItem : NPC_ITEM
     {
         public int x;
         public int y;

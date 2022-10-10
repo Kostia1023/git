@@ -42,6 +42,7 @@
         <Compile Include="Abstract Factory.cs" />
         <Compile Include="AbstractNPC.cs" />
         <Compile Include="AbstractItem.cs" />
+        <Compile Include="NPC_ITEM.cs" />
         <Compile Include="TerrestrialItem.cs" />
         <Compile Include="lab1.cs" />
         <Compile Include="TerrestrialNPC.cs" />
